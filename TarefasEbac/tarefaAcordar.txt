@@ -1,0 +1,23 @@
+1 Acordo olho a hora
+2 está na hora de trabalhar? sim
+  1- levanto da cama
+  2- vou ao banheiro
+  3 - pego escova e a pasta
+  4 - escovo o dente
+  5 - entro no box
+  6 - tomo banho
+  7 - saiu do box
+  9 - vou a sala
+  10 - coloco a roupa
+  11 - boto a comida das gatas
+  12 - pego minhas coisas
+  13 - vou trabalhar
+
+3 está na hora de trabalhar? não
+
+   1 - pego a copo de agua
+   2 - bebo agua
+   3 - faço carinho na gata
+   4 - volto a dormir
+   
+ 
